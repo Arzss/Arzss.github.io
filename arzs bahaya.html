@@ -51,7 +51,6 @@
             <img src="https://otakotaku.com/asset/img/character/2021/08/kisuke-urahara-611d24c46df35p.jpg" alt="Foto Profil">
             <h1>Arsya Raditya Budiyanto</h1>
             <p>Kota Serang , Banten | awokwik35@gmail.com | 0838-6737-6502
-        </div>
         <div class="content">
             <head>
     <meta charset="UTF-8">
@@ -209,7 +208,7 @@
 <body>
     <h4>My social media</h4>
     <a href="https://www.instagram.com/arzsya_rb?igsh=MXMxOHpsYjNwNjRoZQ==" class="button">
-        <img src="https://www.pngarts.com/files/11/Instagram-IG-Logo-Transparent-Image.png" alt="Logo"> IG - Arzsya_rb
+        <img src="https://www.pngarts.com/files/11/Instagram-IG-Logo-Transparent-Image.png" alt="Logo"> IG - arzsya_rb
     </a>
 </body>
 </html>
